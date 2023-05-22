@@ -1,0 +1,28 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+.white {
+  color: white;
+}
+.trending {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  width: 100%;
+  background-color: transparent;
+}
+.gaming {
+  display: flex;
+  flex-direction: column;
+}
+.activeIcon {
+  color: #ff0000;
+}
+.sidebarLink {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
